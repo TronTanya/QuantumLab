@@ -1,0 +1,21 @@
+[theme]
+base = "light"
+primaryColor = "#315EFB"
+backgroundColor = "#F7F8FA"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#202733"
+borderColor = "#E4E7EC"
+baseRadius = "small"
+showWidgetBorder = true
+font = "sans-serif"
+codeFont = "monospace"
+codeTextColor = "#202733"
+codeBackgroundColor = "#EEF1F5"
+linkColor = "#315EFB"
+dataframeHeaderBackgroundColor = "#F7F8FA"
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
